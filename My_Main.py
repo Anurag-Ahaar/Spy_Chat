@@ -1,6 +1,6 @@
 from My_Support import *
 
-print "*******Welcome Spy*******\n"
+print "********Welcome Spy********\n"
 spy_profile('Pooja', 'Miss.', 20, 4.8)
 friend_profile('Pooja', 'Anurag', 'Mr.', 23, 4.9)
 var = 0
